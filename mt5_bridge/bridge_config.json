@@ -1,0 +1,12 @@
+{
+  "bridge_url": "http://10.0.2.2:8080",
+  "bridge_token": "k9s8D_3kLpQ7vNwY1xZ4mR8tU2aC6eH0jF5bE9wG3rM=",
+  "broker_name": "XM Global",
+  "broker_server": "XMGlobal-MT5 10",
+  "account_number": "346533676",
+  "account_type": "DEMO",
+  "investor_password": "@Guerrier#19940",
+  "version": "1.0.4",
+  "deployed": true,
+  "port": 8080
+}

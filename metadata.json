@@ -1,0 +1,6 @@
+{
+  "name": "EMAT AutonomIQ",
+  "description": "Verifiable AI Trading Intelligence platform with full-market scanning, ECE scoring, risk evaluation, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

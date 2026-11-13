@@ -1,0 +1,11 @@
+# EMAT AutonomIQ — MT5 Python Bridge Dependencies
+# Official MetaTrader 5 Python package runs on Windows VPS with MT5 installed
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+pydantic>=2.0.0
+websockets>=11.0
+requests>=2.28.0
+
+# MetaTrader 5 official package is Windows-specific
+# On Windows, pip installs this automatically. On Linux/macOS, sys_platform condition safely skips it.
+MetaTrader5>=5.0.45; sys_platform == "win32"
